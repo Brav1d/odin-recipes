@@ -1,0 +1,20 @@
+.chkinf{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.list1,
+.list2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.list1 {
+    background-color: black;
+    color: white;
+}
+
+.chickimage {
+    width: 500px;
+    height: auto;
+}
