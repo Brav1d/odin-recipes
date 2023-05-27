@@ -4,17 +4,30 @@ h1 {
     text-align: center;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 50px;
+    margin: 16px;
+    padding: 30px;
 }
 
 .intro {
     color: black;
     font-size: 30px;
     font-family:Arial, Helvetica, sans-serif;
+    margin: 16px;
+    text-align: center;
 }
 
-a {
+a,
+.clickb,
+.clickc {
     font-size: 30px;
     font-family:Arial, Helvetica, sans-serif;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width:auto
+
 }
 .burger {
     width: 50px;
@@ -24,3 +37,16 @@ a {
     width: 50px;
     height: auto;
 }
+
+.clickb {
+    background-color: rgb(65, 65, 255);
+}
+.clickc {
+    background-color: rgb(75, 210, 255);
+}
+
+a {
+    padding: 0;
+    padding-right: 10px;
+}
+
